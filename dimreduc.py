@@ -1,6 +1,6 @@
 import sys
 import pandas as pd
-import lib1743585 as lib
+import mylib as lib
 import numpy as np
 from collections import OrderedDict
 import matplotlib.pyplot as plt
